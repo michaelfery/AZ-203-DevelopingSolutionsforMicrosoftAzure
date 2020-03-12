@@ -1,4 +1,4 @@
-# Lab Virtual Machine Installed Software List
+# Lab Required Software List
 
 | Software | Link |
 | --- | --- |
