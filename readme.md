@@ -9,5 +9,7 @@
 
 Hyperlinks to each of the lab exercises and demos are listed below.
 
-- **AZ-203T04-A: Implement Azure security**' :
+- **AZ-203T04-A: Implement Azure security** :
   - [Lab: Access resource secrets securely across services](Instructions/Labs/AZ-203_04_lab.md)
+- **AZ-203T05-A: Monitor, troubleshoot, and optimize Azure solutions** :
+  - [Lab: Monitoring services deployed to Azure](Instructions/Labs/AZ-203_05_lab.md)
