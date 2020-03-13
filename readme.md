@@ -13,3 +13,5 @@ Hyperlinks to each of the lab exercises and demos are listed below.
   - [Lab: Access resource secrets securely across services](Instructions/Labs/AZ-203_04_lab.md)
 - **AZ-203T05-A: Monitor, troubleshoot, and optimize Azure solutions** :
   - [Lab: Monitoring services deployed to Azure](Instructions/Labs/AZ-203_05_lab.md)
+- **AZ-203T06-A: Connect to and consume Azure and third-party services** :
+  - [Lab: Creating a multi-tier solution by using services in Azure](Instructions/Labs/AZ-203_06_lab.md)
